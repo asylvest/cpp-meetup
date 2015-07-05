@@ -1,3 +1,8 @@
+// Implementation of "The Faneuil Hall problem"
+// From Chapter 7.5 of Allen B. Downey's
+// "The Little Book of Semaphores"
+// Adam Sylvester - 7/5/2015
+
 #include <iostream>
 #include <thread>
 #include <chrono>
