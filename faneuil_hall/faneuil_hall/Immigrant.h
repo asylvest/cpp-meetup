@@ -6,8 +6,6 @@
 #include <mutex>
 #include <condition_variable>
 
-#include "Control.h"
-
 class Judge;
 
 class Immigrant
